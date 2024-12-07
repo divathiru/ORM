@@ -19,6 +19,7 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 # PROGRAM sudharsan.s(24009664)
+~~~
 urls.py:
             
 URL configuration for sam project.
@@ -194,7 +195,7 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-            ```
+~~~            ```
 #OUTPUT:
 ![WhatsApp Image 2024-12-07 at 22 15 37_e0c3835a](https://github.com/user-attachments/assets/285dcd55-afb4-4c86-a14f-f48b72829e35)
 ![Screenshot 2024-12-07 213808](https://github.com/user-attachments/assets/3595d549-d57b-4649-9907-bdd0adf1fea9)
